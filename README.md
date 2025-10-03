@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**ifylopez/ifylopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎶 Mi música en Apple Music
 
-Here are some ideas to get you started:
+[![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=apple&logoColor=white)](👉 https://music.apple.com/profile/TU_USUARIO)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Playlists favoritas
+- 🎧 [Mi playlist personal](👉 https://music.apple.com/playlist/TU_PLAYLIST_ID)
+- 🎸 [Clásicos que nunca fallan](👉 https://music.apple.com/playlist/OTRA_PLAYLIST_ID)
+- 🎹 [Música para concentrarme](👉 https://music.apple.com/playlist/UNA_PLAYLIST_DE_CONCENTRACION)
+
+### 🎤 Artistas que más escucho
+- [Artista 1](👉 https://music.apple.com/artist/ID_ARTISTA1)  
+- [Artista 2](👉 https://music.apple.c)
+
+🎓 Estudiante de **Ciencia de Datos**  
+📊 Apasionado por el **análisis de datos** y el **machine learning**  
+⚽ Amante del fútbol + ciencia de datos aplicada al deporte  
+
+## 📈 Stats en GitHub
+![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)
