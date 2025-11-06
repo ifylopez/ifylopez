@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## About me
+🎓 Estudiante de **Ciencia de Datos** en la Universidad Austral
+📈 Trabajando actualmente en mi primer paquete de R [estacionR](https://github.com/ifylopez/estacionr)) 
+
 ## 🎶 Mi música en Apple Music
 
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=apple&logoColor=white)](👉 https://music.apple.com/profile/TU_USUARIO)
@@ -12,9 +16,8 @@
 - [Canserbero]([👉 https://music.apple.com/artist/ID_ARTISTA1](https://music.apple.com/ar/artist/canserbero/579925647?l=en-GB))  
 - [Bad Bunny]([👉 https://music.apple.c](https://music.apple.com/ar/artist/bad-bunny/1126808565?l=en-GB))
 
-🎓 Estudiante de **Ciencia de Datos**  
-📊 Apasionado por el **análisis de datos** y el **machine learning**  
-⚽ Amante del fútbol + ciencia de datos aplicada al deporte  
+
+
 
 ## 📈 Stats en GitHub
 ![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)
