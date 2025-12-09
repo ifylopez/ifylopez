@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🤙
 
 ## You can find me
 - 🎓 Studying *Data science* at [Universidad Austral](https://www.austral.edu.ar/carreras-de-grado/ingenieria/ciencia-de-datos/)
